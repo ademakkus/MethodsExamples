@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\MethodsExamples\TheSumofEvenNumbersFrom_0_to_n\bin\Debug\TheSumofEvenNumbersFrom_0_to_n.exe.config
+C:\Users\mypc\source\repos\MethodsExamples\TheSumofEvenNumbersFrom_0_to_n\bin\Debug\TheSumofEvenNumbersFrom_0_to_n.exe
+C:\Users\mypc\source\repos\MethodsExamples\TheSumofEvenNumbersFrom_0_to_n\bin\Debug\TheSumofEvenNumbersFrom_0_to_n.pdb
+C:\Users\mypc\source\repos\MethodsExamples\TheSumofEvenNumbersFrom_0_to_n\obj\Debug\TheSumofEvenNumbersFrom_0_to_n.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\MethodsExamples\TheSumofEvenNumbersFrom_0_to_n\obj\Debug\TheSumofEvenNumbersFrom_0_to_n.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\MethodsExamples\TheSumofEvenNumbersFrom_0_to_n\obj\Debug\TheSumofEvenNumbersFrom_0_to_n.exe
+C:\Users\mypc\source\repos\MethodsExamples\TheSumofEvenNumbersFrom_0_to_n\obj\Debug\TheSumofEvenNumbersFrom_0_to_n.pdb

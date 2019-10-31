@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\MethodsExamples\Multiply_Numbers\bin\Debug\Multiply_Numbers.exe.config
+C:\Users\mypc\source\repos\MethodsExamples\Multiply_Numbers\bin\Debug\Multiply_Numbers.exe
+C:\Users\mypc\source\repos\MethodsExamples\Multiply_Numbers\bin\Debug\Multiply_Numbers.pdb
+C:\Users\mypc\source\repos\MethodsExamples\Multiply_Numbers\obj\Debug\Multiply_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\MethodsExamples\Multiply_Numbers\obj\Debug\Multiply_Numbers.exe
+C:\Users\mypc\source\repos\MethodsExamples\Multiply_Numbers\obj\Debug\Multiply_Numbers.pdb

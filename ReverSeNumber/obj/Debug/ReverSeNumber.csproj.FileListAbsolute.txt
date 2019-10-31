@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\MethodsExamples\ReverSeNumber\bin\Debug\ReverSeNumber.exe.config
+C:\Users\mypc\source\repos\MethodsExamples\ReverSeNumber\bin\Debug\ReverSeNumber.exe
+C:\Users\mypc\source\repos\MethodsExamples\ReverSeNumber\bin\Debug\ReverSeNumber.pdb
+C:\Users\mypc\source\repos\MethodsExamples\ReverSeNumber\obj\Debug\ReverSeNumber.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\MethodsExamples\ReverSeNumber\obj\Debug\ReverSeNumber.exe
+C:\Users\mypc\source\repos\MethodsExamples\ReverSeNumber\obj\Debug\ReverSeNumber.pdb

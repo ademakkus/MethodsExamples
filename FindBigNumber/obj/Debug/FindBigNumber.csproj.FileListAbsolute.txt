@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\MethodsExamples\FindBigNumber\bin\Debug\FindBigNumber.exe.config
+C:\Users\mypc\source\repos\MethodsExamples\FindBigNumber\bin\Debug\FindBigNumber.exe
+C:\Users\mypc\source\repos\MethodsExamples\FindBigNumber\bin\Debug\FindBigNumber.pdb
+C:\Users\mypc\source\repos\MethodsExamples\FindBigNumber\obj\Debug\FindBigNumber.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\MethodsExamples\FindBigNumber\obj\Debug\FindBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\MethodsExamples\FindBigNumber\obj\Debug\FindBigNumber.exe
+C:\Users\mypc\source\repos\MethodsExamples\FindBigNumber\obj\Debug\FindBigNumber.pdb
